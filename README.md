@@ -1,11 +1,13 @@
 # Dapp - A crypto wallet app
-![](ss.png)
+![](screenshot/ss.png)
 
 
 Test network: Rinkeby
 SmartContract is coded in solidy using remix ide: 
+
 https://remix.ethereum.org/
 API used: infura : 
+
 https://infura.io/
 
 
