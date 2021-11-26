@@ -1,0 +1,44 @@
+name: dapp
+description: A new Flutter project.
+
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  web3dart: ^2.3.3
+  http: any
+  font_awesome_flutter: ^9.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/
+
+
+
+
+  fonts:
+  - family: GoogleSans
+    fonts:
+      - asset: assets/Fonts/GoogleSans-Regular.ttf
+      - asset: assets/Fonts/GoogleSans-Bold.ttf
