@@ -1,10 +1,12 @@
 # Dapp - A crypto wallet app
-!['ss.png']
+![](ss.png)
 
 
 Test network: Rinkeby
-SmartContract is coded in solidy using remix ide: https://remix.ethereum.org/
-API used: infura : https://infura.io/
+SmartContract is coded in solidy using remix ide: 
+https://remix.ethereum.org/
+API used: infura : 
+https://infura.io/
 
 
 
