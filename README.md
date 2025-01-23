@@ -1,4 +1,4 @@
-# Dapp - A crypto wallet app
+#A crypto wallet app
 ![](screenshot/ss.png)
 
 Resources
